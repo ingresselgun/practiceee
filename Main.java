@@ -17,7 +17,7 @@ class Main {
 
         public void sayHello() {
             Car b = new Car();
-            System.out.println(a);
+            
         }
 
     }
